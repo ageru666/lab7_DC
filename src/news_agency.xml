@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news_agency xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:noNamespaceSchemaLocation="news_agency_schema.xsd"
+             xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <news_categories>
+        <category id="1" name=")">
+            <news id="101" title="News Title 1">News Text 1</news>
+            <news id="102" title="News Title 2">News Text 2</news>
+        </category>
+        <category id="2" name="Economy">
+            <news id="201" title="News Title 3">News Text 3</news>
+            <news id="202" title="News Title 4">News Text 4</news>
+        </category>
+        <category id="3" name="Technology">
+            <news id="301" title="News Title 5">News Text 5</news>
+            <news id="302" title="News Title 6">News Text 6</news>
+        </category>
+    </news_categories>
+</news_agency>
